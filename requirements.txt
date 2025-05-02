@@ -1,0 +1,7 @@
+pandas
+transformers
+sentence_transformers
+uvicorn
+pydantic
+torch
+fastapi
